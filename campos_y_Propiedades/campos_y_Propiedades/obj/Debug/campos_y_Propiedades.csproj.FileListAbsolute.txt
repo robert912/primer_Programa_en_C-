@@ -1,0 +1,1 @@
+C:\Users\pc_admin\Desktop\primer_Programa_en_C#\campos_y_Propiedades\campos_y_Propiedades\bin\Debug\campos_y_Propiedades.exe.config
